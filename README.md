@@ -2,6 +2,9 @@
 
 A simple interest calculator flutter app
 
+## Screenshots
+<img src="/ic_1.png" height="400px"/> <img src="/screenshots/ic_2.png" height="400px"/>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
